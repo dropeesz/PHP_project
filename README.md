@@ -34,7 +34,7 @@ Este projeto foi criado com fins de **aprendizado e desenvolvimento profissional
 ## 📸 Demonstração
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dropeesz/PHP_project/main/assets/dashboard.png" alt="Dashboard Sistema da Caixinha" width="900"/>
+  <img src="https://raw.githubusercontent.com/dropeesz/PHP_project/assets/dashboard.png" alt="Dashboard Sistema da Caixinha" width="900"/>
 </div>
 
 ---
